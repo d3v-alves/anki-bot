@@ -28,8 +28,7 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-
-importar_no_anki.txt
+*.txt
 .idea/
 *.iml
 audios/
